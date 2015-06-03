@@ -1,0 +1,18 @@
+{
+  "name": "test_bridge",
+  "version": "0.0.2",
+  "description": "Test repo for bridge between svn and git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szymonmal/test_bridge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szymonmal/test_bridge/issues"
+  },
+  "homepage": "https://github.com/szymonmal/test_bridge"
+}
